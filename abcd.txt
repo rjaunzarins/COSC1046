@@ -1,0 +1,5 @@
+hello, this is my original text file
+hello
+my name is rhy
+hello
+exit
